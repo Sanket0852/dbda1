@@ -1,0 +1,5 @@
+dabase user name --- admin
+password ----- admin@123
+
+AWS Security token -- $wkjf8568@ejnl9
+
